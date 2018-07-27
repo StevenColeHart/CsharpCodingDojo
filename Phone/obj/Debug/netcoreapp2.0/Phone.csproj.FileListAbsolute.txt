@@ -1,0 +1,4 @@
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Phone\obj\Debug\netcoreapp2.0\Phone.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Phone\obj\Debug\netcoreapp2.0\Phone.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Phone\obj\Debug\netcoreapp2.0\Phone.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Phone\obj\Debug\netcoreapp2.0\Phone.AssemblyInfo.cs

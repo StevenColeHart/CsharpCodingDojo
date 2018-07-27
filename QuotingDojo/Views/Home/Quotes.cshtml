@@ -1,0 +1,11 @@
+
+<h1>Welcome to the Quotes Page!</h1>
+
+@{
+    foreach(var quote in ViewBag.quotes) {
+        <p><a asp-controller="Home" asp-action="UserQuote" asp-route-id=@quote["id"]>@quote["user"]</a> -- @quote["text"]</p>
+    }
+}
+<form method="GET" action="/">
+    <button type="submit">Make new Quote</button>
+</form>

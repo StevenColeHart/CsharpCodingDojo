@@ -1,0 +1,16 @@
+﻿@model QuotingDojo.Models.Quote
+
+
+<h1>Enter your Quote!</h1>
+<form method="POST" action="Quotes">
+    <label asp-for="user"></label>
+    <input type="text" name="user"/>
+    <span asp-validation-for="user"></span>
+    <br>
+    <label asp-for="text"></label>
+    <input type="text" name="text"/>
+    <span asp-validation-for="text"></span>
+    <br>
+    <button>Submit</button>
+</form>
+    <button onclick="location.href='/'">See All Quotes</button>

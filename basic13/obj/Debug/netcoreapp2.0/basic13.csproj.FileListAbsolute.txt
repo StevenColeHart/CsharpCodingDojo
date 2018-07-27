@@ -1,0 +1,11 @@
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\obj\Debug\netcoreapp2.0\basic13.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\obj\Debug\netcoreapp2.0\basic13.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\obj\Debug\netcoreapp2.0\basic13.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\obj\Debug\netcoreapp2.0\basic13.AssemblyInfo.cs
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\bin\Debug\netcoreapp2.0\basic13.deps.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\bin\Debug\netcoreapp2.0\basic13.runtimeconfig.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\bin\Debug\netcoreapp2.0\basic13.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\bin\Debug\netcoreapp2.0\basic13.dll
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\bin\Debug\netcoreapp2.0\basic13.pdb
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\obj\Debug\netcoreapp2.0\basic13.dll
+C:\Users\Steven\Desktop\CodingDojo\CSharp\basic13\obj\Debug\netcoreapp2.0\basic13.pdb

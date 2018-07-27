@@ -1,0 +1,10 @@
+﻿<h1>Reviews!</h1>
+@foreach(var review in ViewBag.elephant)
+{
+    <h2>Review for @review.Restaurant  -  @review.Rating stars</h2>
+    <h4>Reviewer: @review.Reviewer on @review.DateTime.ToString("MMMM d, yyyy")</h4>
+    <p>@review.Content</p>
+    <hr>
+    
+}
+<button class="btn btn-info" onclick="location.href='/'">Review another Restaurant</button>

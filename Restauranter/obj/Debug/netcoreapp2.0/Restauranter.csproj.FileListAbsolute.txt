@@ -1,0 +1,11 @@
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.AssemblyInfo.cs
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\bin\Debug\netcoreapp2.0\Restauranter.deps.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\bin\Debug\netcoreapp2.0\Restauranter.runtimeconfig.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\bin\Debug\netcoreapp2.0\Restauranter.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\bin\Debug\netcoreapp2.0\Restauranter.dll
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\bin\Debug\netcoreapp2.0\Restauranter.pdb
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.dll
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Restauranter\obj\Debug\netcoreapp2.0\Restauranter.pdb

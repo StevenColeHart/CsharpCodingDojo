@@ -1,0 +1,11 @@
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\obj\Debug\netcoreapp2.0\Boxing.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\obj\Debug\netcoreapp2.0\Boxing.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\obj\Debug\netcoreapp2.0\Boxing.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\obj\Debug\netcoreapp2.0\Boxing.AssemblyInfo.cs
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\bin\Debug\netcoreapp2.0\Boxing.deps.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\bin\Debug\netcoreapp2.0\Boxing.runtimeconfig.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\bin\Debug\netcoreapp2.0\Boxing.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\bin\Debug\netcoreapp2.0\Boxing.dll
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\bin\Debug\netcoreapp2.0\Boxing.pdb
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\obj\Debug\netcoreapp2.0\Boxing.dll
+C:\Users\Steven\Desktop\CodingDojo\CSharp\Boxing\obj\Debug\netcoreapp2.0\Boxing.pdb

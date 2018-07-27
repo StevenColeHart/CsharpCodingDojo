@@ -1,0 +1,62 @@
+@model beltexam.Models.Post
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Projects!</title>
+        <link rel="stylesheet" href="~/css/style.css"/>
+    </head>
+    <body class="wrapper">
+        <div>
+            <h1>Current Auctions</h1>
+            <p>Hi @ViewBag.current_user.firstname!</p>
+            <a href="/logout">Log Out</a>
+        </div>
+
+        <form asp-action="post" method="POST">
+            <span asp-validation-for="text"></span>
+            <input class="form-control" placeholder="Post something witty here..." asp-for="text">
+            <button  btn btn-info>Idea</button>
+        </form>
+
+        <div>
+            @{
+                foreach(var post in @ViewBag.allposts){
+                    <div>
+                        <a> @post.creator.name </a>
+                        <br>
+                        @post.text
+                        <br>
+                        @if(@post.creator.id == ViewBag.current_user.id){
+                            <form action="delete/@post.id" method="POST">
+                            <input type="submit" value="Delete">
+
+                            </form>
+
+                        }
+                        else{
+                            <form action="/like/@post.id" method="POST">
+                            <input type="submit" value="LIKE!" class="btn btn-primary">
+                            </form>
+                        }
+                    </div>
+
+                }
+            }
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+</html>

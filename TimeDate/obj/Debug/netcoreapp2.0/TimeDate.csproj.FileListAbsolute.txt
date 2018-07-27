@@ -1,0 +1,11 @@
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\bin\Debug\netcoreapp2.0\TimeDate.deps.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\bin\Debug\netcoreapp2.0\TimeDate.runtimeconfig.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\bin\Debug\netcoreapp2.0\TimeDate.runtimeconfig.dev.json
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\bin\Debug\netcoreapp2.0\TimeDate.dll
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\bin\Debug\netcoreapp2.0\TimeDate.pdb
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\obj\Debug\netcoreapp2.0\TimeDate.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\obj\Debug\netcoreapp2.0\TimeDate.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\obj\Debug\netcoreapp2.0\TimeDate.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\obj\Debug\netcoreapp2.0\TimeDate.AssemblyInfo.cs
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\obj\Debug\netcoreapp2.0\TimeDate.dll
+C:\Users\Steven\Desktop\CodingDojo\CSharp\TimeDate\obj\Debug\netcoreapp2.0\TimeDate.pdb
